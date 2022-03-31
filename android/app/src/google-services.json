@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675788311258",
+    "project_id": "metapal",
+    "storage_bucket": "metapal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675788311258:android:1e03c865f75b13f01c73e3",
+        "android_client_info": {
+          "package_name": "com.example.metapal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675788311258-nijgp208dbapji9hq8hud1bof83dd8u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Y3QuhIA3ikhxRKhm0ADTNEVRHTVm5I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675788311258-nijgp208dbapji9hq8hud1bof83dd8u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
